@@ -1,0 +1,19 @@
+{
+  "albert-api-gateway.serverUrl": "https://albert.api.etalab.gouv.fr",
+
+  "albert-api-gateway.requestTimeout": 120000,
+
+  "albert-api-gateway.enableToolCalling": true,
+
+  "albert-api-gateway.enableImageInput": true,
+
+  "albert-api-gateway.enableInlineCompletion": true,
+
+  "albert-api-gateway.inlineCompletionModel": "mistralai/Ministral-3-8B-Instruct-2512",
+
+  "albert-api-gateway.agentTemperature": 0.0,
+
+  "albert-api-gateway.verboseLogging": false,
+
+  "albert-api-gateway.quotaTier": "experimentation"
+}
